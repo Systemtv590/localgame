@@ -1,0 +1,15 @@
+{
+  "columns": 116,
+  "image": "..\/img\/blowharder.png",
+  "imageheight": 608,
+  "imagewidth": 1856,
+  "margin": 0,
+  "name": "blowharder",
+  "spacing": 0,
+  "tilecount": 4408,
+  "tiledversion": "1.5.0",
+  "tileheight": 16,
+  "tilewidth": 16,
+  "type": "tileset",
+  "version": 1.5
+}
