@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 var inicio = {
     iniciarJuego: function () {
-        ajax.cargarArchivo("/mapas/cendero.json"); 
+        ajax.cargarArchivo("mapas/cendero.json"); 
         teclado.iniciar();
     console.log("El Juego Empezo");
         dimensiones.iniciar();
